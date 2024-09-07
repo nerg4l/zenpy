@@ -3188,7 +3188,7 @@ class CommentRedactApi(Api):
             payload={
                 'id': comment,
                 'ticket_id': ticket,
-                'text': html_body,
+                'html_body': html_body,
                 'external_attachment_urls': external_attachment_urls,
             }
         )

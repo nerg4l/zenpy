@@ -5,7 +5,7 @@
       "request": {
         "body": {
           "encoding": "utf-8",
-          "string": "{\"id\": 20884722145682, \"ticket_id\": 445, \"text\": \"<div class=\\\"zd-comment\\\" dir=\\\"auto\\\"><redact>\\u2587\\u2587</redact><br></div>\", \"external_attachment_urls\": []}"
+          "string": "{\"id\": 20884722145682, \"ticket_id\": 445, \"html_body\": \"<div class=\\\"zd-comment\\\" dir=\\\"auto\\\"><redact>\\u2587\\u2587</redact><br></div>\", \"external_attachment_urls\": []}"
         },
         "headers": {
           "Accept": [
